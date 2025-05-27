@@ -26,7 +26,7 @@ The code is a simple p5.js sketch that simulates falling coins. The main compone
 
 ### Example 1
 
-Draw a circle: [Circle Example](https://editor.p5js.org/rongpenl/sketches/LZ1dIib-L)
+Draw a circle: [example link](https://editor.p5js.org/rongpenl/sketches/LZ1dIib-L)
 
 - The coordinate system
 - The `setup()` function
@@ -36,20 +36,20 @@ Draw a circle: [Circle Example](https://editor.p5js.org/rongpenl/sketches/LZ1dIi
 
 ### Example 2
 
-Follow the mouse: [Follow Mouse Example](https://editor.p5js.org/rongpenl/sketches/Y0-BBdbyt)
+Follow the mouse: [example link](https://editor.p5js.org/rongpenl/sketches/Y0-BBdbyt)
 
 - The `draw()` function
 - The `mouseX` and `mouseY` variables
 
 ### Example 3
 
-Make the ball fall upon clicking: [Ball Fall Example](https://editor.p5js.org/rongpenl/sketches/Xw_FNDmao)
+Make the ball fall upon clicking: [example link](https://editor.p5js.org/rongpenl/sketches/Xw_FNDmao)
 
 - The `mousePressed()` function
 - The `falling` logic in `draw()`.
 
 ### Example 4
-Falling in a grid: [https://editor.p5js.org/rongpenl/sketches/n-pHrxc7h]
+Falling in a grid: [example link](https://editor.p5js.org/rongpenl/sketches/n-pHrxc7h)
 - A `grid` system
 - The `width` and `height` variables
 - The `frameCount` and `frameRate` variables
@@ -57,14 +57,14 @@ Falling in a grid: [https://editor.p5js.org/rongpenl/sketches/n-pHrxc7h]
 
 ### Example 5
 
-Using cameras: [Camera Example](https://editor.p5js.org/rongpenl/sketches/Gxgvd8tkR)
+Using cameras: [example link](https://editor.p5js.org/rongpenl/sketches/Gxgvd8tkR)
 
 - The `createCapture()` function
 - The `video` variable
 
 ### Example 6
 
-Tracking finger tip example: [Finger Tracking Example](https://editor.p5js.org/rongpenl/sketches/gjmpRKX1m)
+Tracking finger tip example: [example link](https://editor.p5js.org/rongpenl/sketches/gjmpRKX1m)
 
 - Using `ml5.js` for finger tracking
 - The idea of "callbacks" in JavaScript
@@ -72,8 +72,6 @@ Tracking finger tip example: [Finger Tracking Example](https://editor.p5js.org/r
 
 ### Example 7
 
-Collaborative Drawing: [Collaborative Drawing Example](https://editor.p5js.org/rongpenl/sketches/snAZmQnb1)
-
-- 
+Collaborative Drawing: [example link](https://editor.p5js.org/rongpenl/sketches/snAZmQnb1)
 
 
